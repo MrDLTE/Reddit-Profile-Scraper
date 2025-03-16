@@ -98,12 +98,6 @@ Each file includes detailed information such as content, timestamps, subreddits,
 }
 ```
 
-## Important Considerations
-
-- **Legal and Ethical Usage**: This tool should only be used to scrape publicly available data. Always respect user privacy and Reddit's terms of service.
-- **Rate Limiting**: The script includes deliberate delays between requests to respect Reddit's servers. Aggressive scraping may result in your IP being temporarily blocked.
-- **Reliability**: As this uses web scraping rather than the official API, it may break if Reddit changes its page structure. Use the official Reddit API for more reliable access.
-
 ## Known Limitations
 
 - Cannot access private profiles or age-restricted content
@@ -117,6 +111,3 @@ Each file includes detailed information such as content, timestamps, subreddits,
 - requests
 - beautifulsoup4
 
-## Disclaimer
-
-This tool is provided for educational purposes only. The developer is not responsible for any misuse of this tool or violations of Reddit's terms of service.
